@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: RestRepository
+Implementation-Version: 1.0.1
+Built-By: USUÁRIO
+Implementation-Vendor-Id: br.com.rest.repository
+Build-Jdk: 1.8.0_161
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/RestRepository
+Created-By: Maven Integration for Eclipse
+
